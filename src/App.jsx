@@ -107,7 +107,7 @@ Experience Fashion Like <br />Never Before.
       <section className="py-20" id="features">
         <div className="text-center mb-12">
           <h3 className="text-4xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-green-400 to-blue-500">
-            World’s Best Features
+            Features
           </h3>
           <p className="text-lg text-gray-400 mt-2">Experience cutting-edge technology and seamless shopping like never before.</p>
         </div>
