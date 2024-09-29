@@ -94,7 +94,7 @@ Experience Fashion Like <br />Never Before.
       {/* Hero Image */}
       <div className="col-span-1 flex justify-center items-center">
         <motion.img
-          src="src/assets/heroimage.png"
+          src="https://cloud.appwrite.io/v1/storage/buckets/66f9781c0012a5f3a4c4/files/66f9783b001020894523/view?project=66ee22b6001551106b0e&project=66ee22b6001551106b0e&mode=admin"
           alt="ShopSwipe App Screenshot"
           className="rounded-3xl shadow-lg md:h-2/3 md:w-2/3 h-full w-full"
           initial={{ opacity: 0, scale: 0.8 }}
