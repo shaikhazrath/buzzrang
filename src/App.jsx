@@ -1,7 +1,8 @@
 import React from 'react'
 import LandingPage from './Landingpage'
-import Privacy from './privacy'
+
 import { BrowserRouter, Routes, Route, Link } from 'react-router-dom'
+import Privacy from './Privacy'
 
 const App = () => {
   return (
